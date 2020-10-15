@@ -5,8 +5,8 @@ I'm Paige 👋 (she/her)
 💻 I work as data scientist, using Python (pandas, scikit-learn, numpy) to creatively solve business problems with data!
 
 ⭐ Want to see some work samples?
-* Visit my [blog](https://p-mckenzie.github.io/) to read about recent projects I've worked on
-* check out my [example-projects](https://github.com/p-mckenzie/example-projects) repository to look at code
+* Visit my [blog](https://p-mckenzie.github.io/) to read about recent projects I've worked on.
+* Check out my [example-projects](https://github.com/p-mckenzie/example-projects) (or any other) repository to look at code!
 
 🌱 I’m currently working on learning more algorithms, strengthening my computer science fundamentals, and experimenting with UIs. 
 
