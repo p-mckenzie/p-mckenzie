@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, world!
 
-<!--
-**p-mckenzie/p-mckenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Paige 👋 (she/her)
 
-Here are some ideas to get you started:
+💻 I work as data scientist, using Python (pandas, scikit-learn, numpy) to creatively solve business problems with data!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Want to see some work samples?
+* Visit my [blog](https://p-mckenzie.github.io/) to read about recent projects I've worked on
+* check out my [example-projects](https://github.com/p-mckenzie/example-projects) repository to look at code
+
+🌱 I’m currently working on learning more algorithms, strengthening my computer science fundamentals, and experimenting with UIs. 
+
+🍩 Life outside of coding matters too! I enjoy making pastries, doing yoga, playing ukulele, and attending to my cat's every whim.
+
+📫 Want to chat? The best way to reach me is via [email](mailto:paigemckenzie@utexas.edu).
