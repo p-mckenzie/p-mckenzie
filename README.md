@@ -2,7 +2,7 @@
 
 I'm Paige 👋 (she/her)
 
-💻 I work as data scientist, using Python (pandas, scikit-learn, numpy) to creatively solve business problems with data!
+💻 I work as a data scientist, using Python (pandas, scikit-learn, numpy) to creatively solve business problems with data!
 
 ⭐ Want to see some work samples?
 * Visit my [blog](https://p-mckenzie.github.io/) to read about recent projects I've worked on.
