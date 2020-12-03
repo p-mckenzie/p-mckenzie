@@ -12,4 +12,4 @@ I'm Paige 👋 (she/her)
 
 🍩 Life outside of coding matters too! I enjoy making pastries, doing yoga, playing ukulele, and attending to my cat's every whim.
 
-📫 Want to chat? The best way to reach me is via [email](mailto:paigemckenzie@utexas.edu).
+📫 Want to chat? The best way to reach me is via [email](mailto:paige.a.mckenzie@gmail.com).
